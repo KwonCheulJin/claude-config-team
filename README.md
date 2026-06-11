@@ -1,5 +1,7 @@
 # claude-config-team
 
+**한국어** | [English](README.en.md)
+
 팀 공유용 Claude Code 설정입니다. 개인 claude-config에서 실제 사용 빈도가 높은 핵심 스킬만 추려 구성했습니다.
 
 ## 구성
